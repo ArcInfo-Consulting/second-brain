@@ -1,0 +1,14 @@
+{
+  "name": "arcinfo",
+  "description": "Claude Code plugins from ArcInfo A.I.",
+  "owner": {
+    "name": "ArcInfo A.I."
+  },
+  "plugins": [
+    {
+      "name": "second-brain",
+      "source": "./plugins/second-brain",
+      "description": "Find and organize work information across Microsoft 365 and local folders in Claude Code."
+    }
+  ]
+}

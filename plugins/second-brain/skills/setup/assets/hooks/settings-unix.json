@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PostCompact": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "sh",
+            "args": [
+              "${CLAUDE_PROJECT_DIR}/.claude/hooks/log-compaction.sh"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local settings and test output
+.claude/settings.local.json
+*.log
+
+# Local build folder. It stays on the computer and is not uploaded.
+dist/

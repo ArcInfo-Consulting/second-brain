@@ -1,0 +1,19 @@
+{
+  "name": "second-brain",
+  "displayName": "Second Brain",
+  "description": "Find and organize work information across Microsoft 365 and local folders in Claude Code.",
+  "version": "0.1.3",
+  "author": {
+    "name": "ArcInfo A.I.",
+    "url": "https://github.com/ArcInfo-Consulting"
+  },
+  "homepage": "https://github.com/ArcInfo-Consulting/second-brain",
+  "repository": "https://github.com/ArcInfo-Consulting/second-brain",
+  "license": "MIT",
+  "keywords": [
+    "second-brain",
+    "microsoft-365",
+    "knowledge-management",
+    "productivity"
+  ]
+}
